@@ -1,0 +1,9 @@
+001170   formato(tempo em segundos|velocidade do motor de 0 a 255)
+015180
+026000
+056255
+060230
+063200
+100160
+103180
+110000
